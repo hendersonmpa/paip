@@ -7,4 +7,6 @@
   :version "0.0.1"
   :serial t
   :components ((:file "package")
-               (:file "paip")))
+               (:file "paip")
+	       (:file "intro")
+	       (:file "simple")))
